@@ -2,6 +2,10 @@ Questa pagina vende si impegna di vendere le __CHAD PROTEIN™ LEGENDARY__.
 
 _Il nostro prodotto vi trasformerà in un vero chad e nell'uomo/donna dei vostri sogni._
 
-> Adesso sono un altro uomo! Vivo la mia vita al meglio, un quarto di Chad alla volta!
+##__RECENSIONI__
 
-> La ho presa per mio figlio che era sempre chiuso in camera, adesso non mi rivolge piu la parola :( !
+> 5/5
+    Adesso sono un altro uomo! Vivo la mia vita al meglio, un quarto di Chad alla volta!
+
+> 5/5
+    La ho presa per mio figlio che era sempre chiuso in camera, adesso non mi rivolge piu la parola :D !
