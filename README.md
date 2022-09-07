@@ -3,6 +3,7 @@ Questa pagina vende si impegna di vendere le __CHAD PROTEIN™ LEGENDARY__.
 
 _Il nostro prodotto vi trasformerà in un vero chad e nell'uomo/donna dei vostri sogni._
 
+![HAHA](chad/protein.png)
 ## __RECENSIONI__
 
 > 5/5
