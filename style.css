@@ -1,0 +1,182 @@
+.split{
+  position: absolute;
+  top: 14%;
+  left: 10%;
+}
+
+.split2{
+  position: absolute;
+  top: 22%;
+  right: 5%;
+}
+
+.split3{
+  position: absolute;
+  top: 28%;
+  left: 10%;
+}
+
+.bold{
+  font-weight: bold;
+  font-size: 1.8em;
+}
+
+.bordo{
+  border: 2px solid red;
+  padding: 1em;
+}
+
+.small{
+  font-size: 13px;
+}
+
+.grande{
+  font-size: 1.5em;
+}
+
+.desire {
+  font-size: 2.2em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.resc {
+  width: 20%;
+  min-height: 60%;
+}
+
+.res {
+  width: 20%;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0px;
+  font-size: 22px;
+  color: blue;
+}
+
+#div {
+  background-image: radial-gradient(circle, #a1a1a1, #635d5d);
+  height: 100%;
+  width: 100%;
+}
+
+.center{
+  position: absolute;
+  top: 30%;
+  left: 5%;
+}
+
+.triangoli {
+  width: 100%;
+  height: 100px;
+  position: absolute;
+  top: 5px;
+  animation-iteration-count: infinite;
+  animation-name: triangles;
+  animation-duration: 3s;
+}
+
+@keyframes triangles {
+  0%    {background-image: url(chad/triangle.png);background-repeat: space;}
+  5%    {background: red;}
+  10%   {background-image: url(chad/triangle.png); background-repeat: space;}
+  15%   {background: red;}
+  75%   {background-image: url(chad/triangle.png); background-repeat: space;}
+  80%   {background: red;}
+  100%  {background: red;}
+}
+
+.rossotop{
+  position: absolute;
+  top: 0px;
+  background-color: red;
+  height: 120px;
+  width: 100%;
+}  
+
+.leg{
+  animation-iteration-count: infinite;
+  animation-name: Legendary;
+  animation-duration: 0.5s;
+  color: yellow;
+  font-size: 1.4em;
+}
+
+@keyframes Legendary {
+  50%  {color: red;}
+} 
+
+.price{
+  animation-iteration-count: infinite;
+  animation-name: Sottolinea;
+  animation-duration: 0.5s;
+  font-size: 2.2em;
+  text-decoration: unde;
+  color: yellow;
+}
+
+@keyframes Sottolinea {
+  50%   {color: yellow; visibility: visible;}
+  51%   {visibility: hidden;}
+}
+
+.chaddersx {
+  width: 512px;
+  height: 512px;
+  top: 40%;
+  left: 2%;
+  position: absolute;
+}
+
+.chadderdx {
+  width: 512px;
+  height: 512px;
+  top: 40%;
+  right: 2%;
+  position: absolute;
+}
+
+.chaddermid{
+  position: absolute;
+  left: 38%; 
+  bottom: 5%;
+}
+
+.protein{
+  position: absolute;
+  left: 46.5%;
+  width: 200px;
+  top: 10%;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+#barra {
+  margin-top: 3%;
+  text-align: center;
+  position: absolute;
+  bottom: 1%;
+  width: 100%;
+}
+
+a,nav,ul,li{
+  color: red;
+  text-decoration: none;
+}
+
+li {
+  display: inline;
+  margin: 10%;
+}
+
+ul {
+  font-style: bold;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
