@@ -1,5 +1,15 @@
+#Compito Liguria Digitale
+Il compito era una sfida con i miei compagni di corso dove vinceva il gruppo con la pagina più brutta.
+I requisti erano:
+- Javascript non permesso
+- Solo HTML e CSS
+
+https://signoregregio.github.io/ChaddestProtein/
+
+Per sentire la musica di sottofondo, consentire l'audio della pagina
+
 # BECOME A MASTER CHAD
-Questa pagina vende si impegna di vendere le __CHAD PROTEIN™ LEGENDARY__.  
+Questa pagina si impegna di vendere le __CHAD PROTEIN™ LEGENDARY__.  
 
 _Il nostro prodotto vi trasformerà in un vero chad e nell'uomo/donna dei vostri sogni._
 
