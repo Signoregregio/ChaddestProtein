@@ -1,4 +1,4 @@
-#Compito Liguria Digitale
+# Compito Liguria Digitale
 Il compito era una sfida con i miei compagni di corso dove vinceva il gruppo con la pagina più brutta.
 I requisti erano:
 - Javascript non permesso
@@ -7,6 +7,8 @@ I requisti erano:
 https://signoregregio.github.io/ChaddestProtein/
 
 Per sentire la musica di sottofondo, consentire l'audio della pagina
+
+
 
 # BECOME A MASTER CHAD
 Questa pagina si impegna di vendere le __CHAD PROTEIN™ LEGENDARY__.  
